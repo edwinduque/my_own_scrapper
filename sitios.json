@@ -1,0 +1,8 @@
+{
+    "ELSITIO": {
+        "site":"https://EL_SITIO_WEB.com",
+        "newshref": ".node-title a",
+        "newstitle": ".single-title",
+        "newsbody":".post_content p"
+    }
+}
