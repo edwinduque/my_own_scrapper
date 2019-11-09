@@ -1,8 +1,8 @@
 {
-    "ELSITIO": {
-        "site":"https://EL_SITIO_WEB.com",
+    "elespectador": {
+        "site":"https://www.elespectador.com",
         "newshref": ".node-title a",
-        "newstitle": ".single-title",
-        "newsbody":".post_content p"
+        "newstitle": ".node-title h1",
+        "newsbody":".node-body p"
     }
 }
